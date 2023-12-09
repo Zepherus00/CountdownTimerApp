@@ -1,0 +1,20 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Black/AndroidStudioProjects/Course2022/Home_3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.258" />
+        <entry key="..\:/Users/Black/AndroidStudioProjects/Course2022/Home_3/app/src/main/res/drawable/progress_bar.xml" value="0.327" />
+        <entry key="..\:/Users/Black/AndroidStudioProjects/Course2022/Home_3/app/src/main/res/layout-land/activity_main.xml" value="0.38125" />
+        <entry key="..\:/Users/Black/AndroidStudioProjects/Course2022/Home_3/app/src/main/res/layout/activity_main.xml" value="0.325" />
+        <entry key="..\:/Users/Black/AndroidStudioProjects/android_dev_1_2022/android_dev_1_2022/m10_timer_life_cycle/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/Users/Black/AndroidStudioProjects/android_dev_1_2022/m10_timer_life_cycle/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
